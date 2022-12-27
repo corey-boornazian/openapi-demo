@@ -67,7 +67,7 @@
 								}
 							],
 							"cookie": [],
-							"body": "[\n\t{\n\t\t\"id\": \"<string>\",\n\t\t\"name\": \"<string>\",\n\t\t\"type\": \"<string>\",\n\t\t\"description\": \"<string>\"\n\t},\n\t{\n\t\t\"id\": \"<string>\",\n\t\t\"name\": \"<string>\",\n\t\t\"type\": \"<string>\",\n\t\t\"description\": \"<string>\"\n\t}\n]"
+							"body": "[\n\t{\n\t\t\"id\": \"1\",\n\t\t\"name\": \"Millenium Falcon\",\n\t\t\"type\": \"cruiser\",\n\t\t\"description\": \"One of the most heroic & storied ships in the galaxy.\"\n\t},\n\t{\n\t\t\"id\": \"2\",\n\t\t\"name\": \"X-Wing\",\n\t\t\"type\": \"Fighter\",\n\t\t\"description\": \"Reliable fighter designed to be nimble and performant in dogfights.\"\n\t}\n]"
 						},
 						{
 							"id": "0526e17d-026e-473c-9379-0e14db2d1253",
@@ -101,7 +101,7 @@
 								}
 							],
 							"cookie": [],
-							"body": "{\n\t\"message\": \"<string>\"\n}"
+							"body": "{\n\t\"message\": \"There was an error processing your request\"\n}"
 						}
 					]
 				},
