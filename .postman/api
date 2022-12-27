@@ -5,7 +5,7 @@ id = df6b1262-81d0-4d70-a8bb-2766bd2603f0
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"22654249-83a92ada-3eb1-49ad-b2ce-817ffb1734a9","path":"Spacecrafts.json","metaData":{}}
+files[] = {"id":"22654249-2740a1cc-830a-480e-b2a0-d347e9324ebd","path":"Spacecrafts Requests.json","metaData":{}}
 
 [relations.collections.metaData]
 
